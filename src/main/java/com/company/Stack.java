@@ -11,17 +11,6 @@ public class Stack {
         tos = 0;
     }
 
-    // Construct a stack from a stack
-    Stack(Stack ob) {
-        tos = ob.tos;
-        stck = new String[ob.stck.length];
-
-        // copy elements
-        for(int i=0; i<tos; i++) {
-            stck[i] = ob.stck[i];
-        }
-    }
-
     // Construct a stack with initial values
     Stack(String a[]) {
         stck = new String[a.length];

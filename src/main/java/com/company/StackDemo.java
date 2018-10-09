@@ -55,7 +55,8 @@ public class StackDemo {
                         if (array.getEntry(i).equals("empty")) {
                             break;
                         } else array.setEntry(i, "clean");
-                    } break;
+                    } System.out.println("Plates cleaned ... ");
+                    break;
 
                 case "help":
                     // Display information on the acceptable commands
