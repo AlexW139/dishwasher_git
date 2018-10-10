@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="023ce6d0-b685-4161-b80b-c9d6b371c429" name="Default Changelist" comment="" />
+    <list default="true" id="023ce6d0-b685-4161-b80b-c9d6b371c429" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/src/test/java/TestAdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/src/test/java/TestAdd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/src/test/java/TestClean.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/src/test/java/TestClean.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/src/test/java/TestConstructor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/src/test/java/TestConstructor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/src/test/java/TestGet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/src/test/java/TestGet.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/src/main/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,7 +19,7 @@
     <session id="-1262117219">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.4" value="1" />
           <entry key="project.opened" value="2" />
@@ -24,7 +29,7 @@
         <counts>
           <entry key="class" value="2" />
           <entry key="iml" value="1" />
-          <entry key="java" value="28" />
+          <entry key="java" value="30" />
           <entry key="xml" value="2" />
         </counts>
       </usages-collector>
@@ -32,19 +37,19 @@
         <counts>
           <entry key="CLASS" value="2" />
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="28" />
+          <entry key="JAVA" value="30" />
           <entry key="XML" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="3619" />
+          <entry key="java" value="3729" />
           <entry key="xml" value="20" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="3619" />
+          <entry key="JAVA" value="3729" />
           <entry key="XML" value="20" />
         </counts>
       </usages-collector>
@@ -64,8 +69,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/src/test/java/TestConstructor.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="46" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
+            <state relative-caret-position="195">
+              <caret line="13" column="9" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="13" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -85,7 +90,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/src/test/java/TestNegativeInputException.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="315">
@@ -100,8 +105,32 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/src/test/java/TestAdd.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+            <state relative-caret-position="269">
+              <caret line="28" column="9" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/src/test/java/TestGet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="269">
+              <caret line="36" column="9" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/src/test/java/TestClean.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="32" column="9" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -112,8 +141,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/company/Stack.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="9" selection-end-column="52" />
+            <state relative-caret-position="225">
+              <caret line="15" column="36" lean-forward="true" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -144,12 +173,13 @@
         <option value="$PROJECT_DIR$/src/main/src/test/java/AddTest.java" />
         <option value="$PROJECT_DIR$/src/main/src/test/java/TestCommand.java" />
         <option value="$PROJECT_DIR$/src/main/src/test/java/TestUserInput.java" />
-        <option value="$PROJECT_DIR$/src/main/src/test/java/TestGet.java" />
-        <option value="$PROJECT_DIR$/src/main/src/test/java/TestClean.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/company/StackDemo.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/company/Stack.java" />
-        <option value="$PROJECT_DIR$/src/main/src/test/java/TestConstructor.java" />
         <option value="$PROJECT_DIR$/src/main/src/test/java/TestNegativeInputException.java" />
+        <option value="$PROJECT_DIR$/src/main/src/test/java/TestConstructor.java" />
+        <option value="$PROJECT_DIR$/src/main/src/test/java/TestAdd.java" />
+        <option value="$PROJECT_DIR$/src/main/src/test/java/TestGet.java" />
+        <option value="$PROJECT_DIR$/src/main/src/test/java/TestClean.java" />
       </list>
     </option>
   </component>
@@ -166,7 +196,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="27" />
     <option name="y" value="42" />
     <option name="width" value="1400" />
@@ -225,7 +255,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539185523438" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539187048013" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -244,7 +274,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.TestNegativeInputException.testNegativeInputException">
+  <component name="RunManager" selected="TestNG.TestClean.testClean">
     <configuration name="StackDemo" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="com.company.StackDemo" />
       <module name="main" />
@@ -322,11 +352,11 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.TestNegativeInputException.testNegativeInputException" />
-        <item itemvalue="TestNG.TestConstructor.testConstructor" />
-        <item itemvalue="TestNG.TestAdd.testAdd" />
         <item itemvalue="TestNG.TestClean.testClean" />
         <item itemvalue="TestNG.TestGet.testGet" />
+        <item itemvalue="TestNG.TestAdd.testAdd" />
+        <item itemvalue="TestNG.TestConstructor.testConstructor" />
+        <item itemvalue="TestNG.TestNegativeInputException.testNegativeInputException" />
       </list>
     </recent_temporary>
   </component>
@@ -341,26 +371,11 @@
       <option name="presentableId" value="Default" />
       <updated>1539073714345</updated>
       <workItem from="1539073715601" duration="19617000" />
-      <workItem from="1539176917822" duration="5340000" />
+      <workItem from="1539176917822" duration="6120000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="AddTest_testAdd - 2018.10.09 at 14h 37m 39s.xml">
-      <configuration name="AddTest.testAdd" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="AddTest_testAdd - 2018.10.09 at 14h 37m 53s.xml">
-      <configuration name="AddTest.testAdd" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="TestCommand_testCommand - 2018.10.09 at 14h 57m 15s.xml">
-      <configuration name="TestCommand.testCommand" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="TestUserInput_testUserInput - 2018.10.09 at 15h 26m 24s.xml">
-      <configuration name="TestUserInput.testUserInput" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="TestGet_testGet - 2018.10.09 at 15h 39m 51s.xml">
-      <configuration name="TestGet.testGet" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="TestClean_testClean - 2018.10.09 at 16h 09m 41s.xml">
       <configuration name="TestClean.testClean" configurationId="TestNG" />
     </history-entry>
@@ -376,13 +391,27 @@
     <history-entry file="TestNegativeInputException_testNegativeInputException - 2018.10.10 at 16h 28m 05s.xml">
       <configuration name="TestNegativeInputException.testNegativeInputException" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="TestConstructor_testConstructor - 2018.10.10 at 16h 50m 03s.xml">
+      <configuration name="TestConstructor.testConstructor" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestConstructor_testConstructor - 2018.10.10 at 16h 54m 04s.xml">
+      <configuration name="TestConstructor.testConstructor" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestAdd_testAdd - 2018.10.10 at 16h 55m 06s.xml">
+      <configuration name="TestAdd.testAdd" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestGet_testGet - 2018.10.10 at 16h 55m 24s.xml">
+      <configuration name="TestGet.testGet" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestClean_testClean - 2018.10.10 at 16h 55m 45s.xml">
+      <configuration name="TestClean.testClean" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24957000" />
+    <option name="totallyTimeSpent" value="25737000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="27" y="42" width="1400" height="757" extended-state="1" />
-    <editor active="true" />
+    <frame x="27" y="42" width="1400" height="757" extended-state="0" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
@@ -397,7 +426,7 @@
       <window_info anchor="bottom" id="Database Changes" order="3" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.31729323" />
+      <window_info anchor="bottom" id="Run" order="6" weight="0.31729323" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="bottom" id="Messages" order="8" weight="0.32932332" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
@@ -450,23 +479,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/src/test/java/TestUserInput.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/src/test/java/TestGet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="38" selection-start-line="2" selection-start-column="38" selection-end-line="2" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/src/test/java/TestClean.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="28" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/main.iml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -502,33 +514,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/Stack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="9" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/src/test/java/TestAdd.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="23" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/src/test/java/TestConstructor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="46" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/company/UserInput.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -543,6 +528,53 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
           <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/company/Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="36" lean-forward="true" selection-start-line="15" selection-start-column="36" selection-end-line="15" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/src/test/java/TestConstructor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="9" lean-forward="true" selection-start-line="11" selection-start-column="8" selection-end-line="13" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/src/test/java/TestAdd.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="28" column="9" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/src/test/java/TestGet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="36" column="9" selection-start-line="36" selection-start-column="9" selection-end-line="36" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/src/test/java/TestClean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="9" selection-start-line="32" selection-start-column="9" selection-end-line="32" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

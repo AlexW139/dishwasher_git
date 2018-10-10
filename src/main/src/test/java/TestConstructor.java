@@ -1,15 +1,16 @@
 import org.testng.Assert;
 import org.testng.annotations.Test;
+import com.company.Stack;
 
 public class TestConstructor {
     @Test
     public void testConstructor() {
         String[] expected = {"empty","empty","empty","empty","empty","empty","empty","empty","empty","empty","empty","empty","empty","empty","empty"};
 
-        int size = 15;
-        String[] actual = new String[size];
-        for(int i=0; i<size; i++) actual[i] = "empty";
+        Stack actual = new Stack(15);
 
-        Assert.assertEquals(actual, expected);
+        for(int i=0; i<actual.getLength(); i++) {
+            Assert.assertEquals(actual.getEntry(i), expected[i]);
+        }
     }
 }

@@ -32,15 +32,8 @@ public class TestGet {
         Stack actual = testStack;
 
         // Compare the each entry in the actual and expected arrays using 'assert'
-        Assert.assertEquals(actual.getEntry(0), expected[0]);
-        Assert.assertEquals(actual.getEntry(1), expected[1]);
-        Assert.assertEquals(actual.getEntry(2), expected[2]);
-        Assert.assertEquals(actual.getEntry(3), expected[3]);
-        Assert.assertEquals(actual.getEntry(4), expected[4]);
-        Assert.assertEquals(actual.getEntry(5), expected[5]);
-        Assert.assertEquals(actual.getEntry(6), expected[6]);
-        Assert.assertEquals(actual.getEntry(7), expected[7]);
-        Assert.assertEquals(actual.getEntry(8), expected[8]);
-        Assert.assertEquals(actual.getEntry(9), expected[9]);
+        for(int i=0; i<actual.getLength(); i++) {
+            Assert.assertEquals(actual.getEntry(i), expected[i]);
+        }
     }
 }
