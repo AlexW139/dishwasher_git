@@ -1,7 +1,7 @@
 // A unit test to determine whether the 'add' command adds the correct number of plates to the stack.
 
-import com.company.Stack;
-import com.company.StackFullException;
+import company.Stack;
+import company.StackFullException;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 

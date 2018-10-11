@@ -1,6 +1,6 @@
 import org.testng.Assert;
 import org.testng.annotations.Test;
-import com.company.Stack;
+import company.Stack;
 
 public class TestConstructor {
     @Test

@@ -1,4 +1,4 @@
-import com.company.NegativeInputException;
+import company.NegativeInputException;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 

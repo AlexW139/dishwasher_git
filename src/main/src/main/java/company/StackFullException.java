@@ -1,4 +1,4 @@
-package com.company;
+package company;
 
 public class StackFullException extends Exception {
     int size;

@@ -1,10 +1,8 @@
 // A test for the acceptedCommands() method to make sure it returns the correct command
 
-import com.company.AcceptedCommands;
+import company.AcceptedCommands;
 import org.testng.Assert;
 import org.testng.annotations.Test;
-
-import java.util.Arrays;
 
 public class TestCommand {
     @Test

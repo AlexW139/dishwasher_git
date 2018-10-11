@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2018-10-11T08:31:31Z" name="Command line suite" finished-at="2018-10-11T08:31:31Z" duration-ms="19">
+    <groups>
+    </groups>
+    <test started-at="2018-10-11T08:31:31Z" name="Command line test" finished-at="2018-10-11T08:31:31Z" duration-ms="19">
+      <class name="TestAdd">
+        <test-method signature="testAdd()[pri:0, instance:TestAdd@29176cc1]" started-at="2018-10-11T08:31:31Z" name="testAdd" finished-at="2018-10-11T08:31:31Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAdd -->
+      </class> <!-- TestAdd -->
+      <class name="TestCommand">
+        <test-method signature="testCommand()[pri:0, instance:TestCommand@27ae2fd0]" started-at="2018-10-11T08:31:31Z" name="testCommand" finished-at="2018-10-11T08:31:31Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCommand -->
+      </class> <!-- TestCommand -->
+      <class name="TestNegativeInputException">
+        <test-method signature="testNegativeInputException()[pri:0, instance:TestNegativeInputException@45018215]" started-at="2018-10-11T08:31:31Z" name="testNegativeInputException" finished-at="2018-10-11T08:31:31Z" duration-ms="5" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testNegativeInputException -->
+      </class> <!-- TestNegativeInputException -->
+      <class name="TestGet">
+        <test-method signature="testGet()[pri:0, instance:TestGet@2928854b]" started-at="2018-10-11T08:31:31Z" name="testGet" finished-at="2018-10-11T08:31:31Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGet -->
+      </class> <!-- TestGet -->
+      <class name="TestClean">
+        <test-method signature="testClean()[pri:0, instance:TestClean@79efed2d]" started-at="2018-10-11T08:31:31Z" name="testClean" finished-at="2018-10-11T08:31:31Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testClean -->
+      </class> <!-- TestClean -->
+      <class name="TestConstructor">
+        <test-method signature="testConstructor()[pri:0, instance:TestConstructor@2f177a4b]" started-at="2018-10-11T08:31:31Z" name="testConstructor" finished-at="2018-10-11T08:31:31Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testConstructor -->
+      </class> <!-- TestConstructor -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>

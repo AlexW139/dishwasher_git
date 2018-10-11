@@ -1,6 +1,6 @@
-import com.company.Stack;
-import com.company.StackEmptyException;
-import com.company.StackFullException;
+import company.Stack;
+import company.StackEmptyException;
+import company.StackFullException;
 import org.testng.Assert;
 import org.testng.annotations.Test;
 

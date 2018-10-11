@@ -1,4 +1,4 @@
-package com.company;
+package company;
 
 public class Stack {
     private String stck[]; // stack to store number of plates
